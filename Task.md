@@ -1,0 +1,3 @@
+[[Task]] 
+- [ ] Corta cabelo 
+- [ ] 

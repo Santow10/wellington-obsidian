@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "ee0e3a1635c47cfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eab9e51892df7a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "736548b477ad2a6d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "00_PAINEL_GERAL/Tarefas pessoais Kamban.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Tarefas pessoais Kamban"
+            }
+          },
+          {
+            "id": "c6b10456882cf16b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foco em Vida + Carreira/05_Templates/T_Documento.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T_Documento"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a152b00b1a6dbaef",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d4118bd79cb0c713",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de arquivos"
+        }
+      },
+      {
+        "id": "d08eddd1a0147c44",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "H",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Procurar"
+        }
+      },
+      {
+        "id": "61968825f8f568ef",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "279bb60b1a0df0a5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas as propriedades"
+        }
+      },
+      {
+        "id": "b145ecce9f3c1fa1",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "fce3628c73662dbf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b9bd7d5afcad3c9b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "00_PAINEL_GERAL/Tarefas pessoais Kamban.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Links inversos"
+        }
+      },
+      {
+        "id": "a6b262274bc7b88d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Links de saída"
+        }
+      },
+      {
+        "id": "59ae0853d1f37a70",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Sumário"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "obsidian-kanban:Create new board": false,
+      "audio-recorder:Começar/parar a gravação de áudio": false
+    }
+  },
+  "active": "d08eddd1a0147c44",
+  "lastOpenFiles": [
+    "Sem título.md",
+    "Foco em Vida + Carreira/05_Templates/T_Documento.md",
+    "Sem título",
+    "00_PAINEL_GERAL/Tarefas pessoais Kamban.md",
+    "Task.md",
+    "00_PAINEL_GERAL/Painel de Vencimentos.md",
+    "Foco em Vida + Carreira/06_Veículo/Pneu dianteiro.md",
+    "Foco em Vida + Carreira/06_Veículo/Pineu trazeiro.md",
+    "Foco em Vida + Carreira/05_Templates/T_veiculo.md",
+    "Foco em Vida + Carreira/03_Documentação/RG Wellington.md",
+    "Foco em Vida + Carreira/03_Documentação/CNH.md",
+    "CNH. Wellington. 2024",
+    "Foco em Vida + Carreira/03_Documentação/ASO do trabalho.md",
+    "MVIMG_20260321_132618.jpg",
+    "RG 2° via. Wellington 1. 2034",
+    "RG 2° via. Wellington. 2034",
+    "Foco em Vida + Carreira/05_Templates/T_Pessoas.md",
+    "Foco em Vida + Carreira/06_Veículo",
+    "Foco em Vida + Carreira/04_Arquivo",
+    "Foco em Vida + Carreira/01_Carreira_ADS",
+    "Ligar no INSS.md",
+    "00_PAINEL_GERAL",
+    "Foco em Vida + Carreira/05_Templates/Documento.md",
+    "Foco em Vida + Carreira/02_Familia/Wallace/INFOR..md",
+    "2030-10-15.md",
+    "Foco em Vida + Carreira/05_Templates",
+    "Foco em Vida + Carreira/03_Documentação"
+  ]
+}
