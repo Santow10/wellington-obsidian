@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Task.md",
+                "file": "00_PAINEL_GERAL/Painel de Vencimentos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task"
+              "title": "Painel de Vencimentos"
             }
           }
         ],
@@ -191,16 +191,18 @@
   },
   "active": "c6b10456882cf16b",
   "lastOpenFiles": [
+    "Foco em Vida + Carreira/01_Enrrada/Chaves de API.md",
+    "Foco em Vida + Carreira/06_Veículo/Pineu trazeiro.md",
+    "Task.md",
+    "Foco em Vida + Carreira/01_Enrrada",
+    "Sem título",
     "00_PAINEL_GERAL/Tarefas pessoais Kamban.md",
     "README.md",
     "00_PAINEL_GERAL/Painel de Vencimentos.md",
     "Foco em Vida + Carreira/03_Documentação/ASO do trabalho.md",
     "Foco em Vida + Carreira/05_Templates/T_Documento.md",
     "Sem título.md",
-    "Sem título",
-    "Task.md",
     "Foco em Vida + Carreira/06_Veículo/Pneu dianteiro.md",
-    "Foco em Vida + Carreira/06_Veículo/Pineu trazeiro.md",
     "Foco em Vida + Carreira/05_Templates/T_veiculo.md",
     "Foco em Vida + Carreira/03_Documentação/RG Wellington.md",
     "Foco em Vida + Carreira/03_Documentação/CNH.md",
@@ -217,7 +219,6 @@
     "Foco em Vida + Carreira/05_Templates/Documento.md",
     "Foco em Vida + Carreira/02_Familia/Wallace/INFOR..md",
     "2030-10-15.md",
-    "Foco em Vida + Carreira/05_Templates",
-    "Foco em Vida + Carreira/03_Documentação"
+    "Foco em Vida + Carreira/05_Templates"
   ]
 }
