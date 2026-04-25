@@ -1,13 +1,18 @@
 ---
+
 kanban-plugin: list
 cssclasses:
   - Liga pra inss
 Task: Ligar pai
+
 ---
 
 ## A FAZER
 
 - [ ] Senha no obsidia
+- [ ] Tasker
+- [ ] Salva senha no obsidian
+- [ ] Lava roupa
 
 
 ## FAZENDO
@@ -30,6 +35,6 @@ Task: Ligar pai
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false]}
+{"kanban-plugin":"list","list-collapse":[false,false,false]}
 ```
 %%

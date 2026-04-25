@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foco em Vida + Carreira/05_Templates/T_Documento.md",
+                "file": "Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "T_Documento"
+              "title": "Task"
             }
           }
         ],
@@ -70,7 +70,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "H",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -121,7 +121,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "fce3628c73662dbf",
@@ -189,21 +189,22 @@
       "audio-recorder:Começar/parar a gravação de áudio": false
     }
   },
-  "active": "d08eddd1a0147c44",
+  "active": "c6b10456882cf16b",
   "lastOpenFiles": [
-    "Sem título.md",
-    "Foco em Vida + Carreira/05_Templates/T_Documento.md",
-    "Sem título",
     "00_PAINEL_GERAL/Tarefas pessoais Kamban.md",
-    "Task.md",
+    "README.md",
     "00_PAINEL_GERAL/Painel de Vencimentos.md",
+    "Foco em Vida + Carreira/03_Documentação/ASO do trabalho.md",
+    "Foco em Vida + Carreira/05_Templates/T_Documento.md",
+    "Sem título.md",
+    "Sem título",
+    "Task.md",
     "Foco em Vida + Carreira/06_Veículo/Pneu dianteiro.md",
     "Foco em Vida + Carreira/06_Veículo/Pineu trazeiro.md",
     "Foco em Vida + Carreira/05_Templates/T_veiculo.md",
     "Foco em Vida + Carreira/03_Documentação/RG Wellington.md",
     "Foco em Vida + Carreira/03_Documentação/CNH.md",
     "CNH. Wellington. 2024",
-    "Foco em Vida + Carreira/03_Documentação/ASO do trabalho.md",
     "MVIMG_20260321_132618.jpg",
     "RG 2° via. Wellington 1. 2034",
     "RG 2° via. Wellington. 2034",
